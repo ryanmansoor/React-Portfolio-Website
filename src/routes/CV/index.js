@@ -13,12 +13,12 @@ const CV = () => {
               </NavLink>
             </li>
           </ul>
-          <h1>CV | OCT 2018</h1>
+          <h1>CV | May 2022</h1>
         </header>
       </section>
 
       <iframe
-        src="https://drive.google.com/file/d/1VsxfRbyZoYypVPaTiYnENNWTAkBrEm_5/preview"
+        src="https://drive.google.com/file/d/1P_DU5g7w85bqq68Ln4Ix7TfJvSLb7Erc/preview"
         title="CV"
         className="pdf"
       ></iframe>

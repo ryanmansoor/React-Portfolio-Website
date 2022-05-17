@@ -110,7 +110,7 @@ const Portfolio = () => {
                       </li>
                       <li>
                         React: Writing reusable functional components, with
-                        familiartiy of React hooks and React context.
+                        experience in using React hooks and React context.
                         Communicating with authentication servers and fetching
                         data using GraphQL with Apollo from our backend servers.
                       </li>
