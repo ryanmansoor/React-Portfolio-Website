@@ -53,6 +53,17 @@ const Home = () => {
                 GitHub
               </a>
             </li>
+            <li>
+              <a
+                href="https://stackoverflow.com/users/6716421/rymanso"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="GitHub"
+                className="fab fa-stack-overflow"
+              >
+                Stack Overflow
+              </a>
+            </li>
           </ul>
         </footer>
         <p>Professional Portfolio</p>

@@ -900,6 +900,8 @@ ul.icons {
   list-style: none;
   padding-left: 0;
   margin-top: -0.675em;
+  max-width: 250px;
+  margin: auto;
 }
 
 ul.icons li {
