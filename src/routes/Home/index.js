@@ -44,7 +44,7 @@ const Home = () => {
             </li>
             <li>
               <a
-                href="https://github.com/ryanmansoor"
+                href="https://github.com/rymanso"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="GitHub"
